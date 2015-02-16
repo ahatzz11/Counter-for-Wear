@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity" tools:deviceIds="wear_round"
+    android:background="#2196F3"
+    android:weightSum="1">
+
+    <TextView android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/count_start"
+        android:gravity="center"
+        android:textSize="100sp"
+        android:textColor="#FFFFFF"
+        android:clickable="true"
+        android:longClickable="true"
+        android:paddingBottom="40dp"
+        />
+
+    <TextView
+        android:id="@+id/hintUp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="@string/hintUp"
+        android:textColor="#FFFFFF"
+        android:visibility="visible"
+        />
+
+    <TextView
+        android:id="@+id/hintDown"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="125dp"
+        android:text="@string/hintDown"
+        android:textColor="#FFFFFF"
+        android:visibility="visible"
+        />
+
+    <ImageView
+        android:id="@+id/reset"
+        android:contentDescription="@string/reset_desc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/reset_icon"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:paddingBottom="21dp"
+        android:layout_marginTop="20dp"
+        />
+
+    <ImageView
+        android:id="@+id/circle"
+        android:contentDescription="@string/circle_desc"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:src="@drawable/green_circle"
+        android:layout_marginTop="74dp"
+        android:layout_marginStart="15dp"
+        />
+</RelativeLayout>
