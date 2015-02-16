@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Alex/Documents/Android Studio/Counter/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.71/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4ece008bb37e92b9323ee6259cbf4d4583052f9e">
+        <dex dex="/Users/Alex/Documents/Android Studio/Counter/wear/build/intermediates/pre-dexed/debug/classes-f5763efa536e93f23eeceaf140bfc48cdbc185af.jar" />
+    </item>
+    <item
+        jar="/Users/Alex/Documents/Android Studio/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/Users/Alex/Documents/Android Studio/Counter/wear/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-bf4827a81e880dc3ef893b78d8c7a2fe7c990ec6.jar" />
+    </item>
+    <item
+        jar="/Users/Alex/Documents/Android Studio/Counter/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="6804efbb78d7facc2e1aa107c7342bee83afae45">
+        <dex dex="/Users/Alex/Documents/Android Studio/Counter/wear/build/intermediates/pre-dexed/debug/classes-35d5a7c9d5906136b1d68710795072eb5434ee1b.jar" />
+    </item>
+    <item
+        jar="/Users/Alex/Documents/Android Studio/Counter/wear/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/Users/Alex/Documents/Android Studio/Counter/wear/build/intermediates/pre-dexed/debug/classes-ecf190ad687f3ab58f30660336c861319030b144.jar" />
+    </item>
+    <item
+        jar="/Users/Alex/Documents/Android Studio/Counter/wear/build/intermediates/exploded-aar/com.android.support/support-v13/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e128103d5281ddd26195a7f980b36d0d005a4e56">
+        <dex dex="/Users/Alex/Documents/Android Studio/Counter/wear/build/intermediates/pre-dexed/debug/classes-73f149516151a4dd386755d6f4da8c4b6a5561ac.jar" />
+    </item>
+    <item
+        jar="/Users/Alex/Documents/Android Studio/Counter/wear/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/Users/Alex/Documents/Android Studio/Counter/wear/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-394a2881272f5498c53bbd54ea443e7132dc6a08.jar" />
+    </item>
+    <item
+        jar="/Users/Alex/Documents/Android Studio/Counter/wear/build/intermediates/exploded-aar/com.android.support/support-v13/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="27bbd3982cdfe4468a9bf99c8c773734a9049e33">
+        <dex dex="/Users/Alex/Documents/Android Studio/Counter/wear/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-3fdffbeca0400c4450128b06910b901df3002287.jar" />
+    </item>
+
+</items>
